@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5dc1cb5-7867-41e8-80c0-566a5c59494b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NtqquEtkx0XBFYUm15pZMTsXik" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "extract.method.default.visibility": "private",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "D:/INFORMACION/Nueva carpeta (4)/GenRequ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\IdeaProjects\BibliotecaCaribe\BibliotecaCaribe" />
+      <recent name="C:\Users\diego\IdeaProjects\BibliotecaCaribe\BibliotecaCaribe\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Sarita\Universidad Javeriana\Semestres\Quinto Semestre\BibliotecaCaribe-master\BibliotecaCaribe" />
+      <recent name="D:\Sarita\Universidad Javeriana\Semestres\Quinto Semestre\BibliotecaCaribe-master\BibliotecaCaribe\Requerimientos" />
+      <recent name="D:\Sarita\Universidad Javeriana\Semestres\Quinto Semestre\BibliotecaCaribe-master\BibliotecaCaribe\BaseDeDatos" />
+      <recent name="C:\Users\diego\IdeaProjects\BibliotecaCaribe\BibliotecaCaribe" />
+      <recent name="C:\Users\diego\IdeaProjects\BibliotecaCaribe\BibliotecaCaribe\src\main\java\com\pacificos\cliente" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pacificos.cliente" />
+      <recent name="com.pacificos.gestor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Compound.QuinceProcesos">
+    <configuration name="ActorDev" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.actor.ActorGeneral" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-t dev -i 102" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActorPrestamo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.actor.ActorPrestamo" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-p 1093" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActorRen" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.actor.ActorGeneral" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-t ren -i 101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Broker" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.broker.Broker" />
+      <module name="BibliotecaCaribe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcTiemposRespuesta" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.CalculadoraEstadistica" />
+      <module name="BibliotecaCaribe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Escritor1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.escritor.Escritor" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-l Libros.txt -p Prestamos.txt -d 1096" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Escritor2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.escritor.Escritor" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-l LibrosRep.txt -p PrestamosRep.txt -d 1095" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscritorCH1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.escritor.Escritor" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-l LibrosCH.txt -p PrestamosCH.txt -d 1096" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscritorCH2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.escritor.Escritor" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-l LibrosRepCH.txt -p PrestamosRepCH.txt -d 1095" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscritorGR1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.escritor.Escritor" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-l LibrosGR.txt -p PrestamosGR.txt -d 1096" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscritorGR2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.escritor.Escritor" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-l LibrosRepGR.txt -p PrestamosRepGR.txt -d 1095" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestorCarga" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.gestor.GestorCarga" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-p 1099 -t 10000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestorCarga2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.gestor.GestorCarga" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-p 1100 -t 100000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestorCargaRespaldo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.gestor.GestorCarga" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-p 1101 -t 10000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1001" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1001 -a Requerimientos/Requerimientos.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1001CH" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1001 -a PruebaChiquita/Requerimientos.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1001GR" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1001 -a PruebaGrande/Requerimientos.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1002" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1002 -a Requerimientos/Requerimientos2.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1002GR" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1002 -a PruebaGrande/Requerimientos2.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1003" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1003 -a Requerimientos/Requerimientos3.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1003GR" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1003 -a PruebaGrande/Requerimientos3.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1004" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1004 -a Requerimientos/Requerimientos4.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1005" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1005 -a Requerimientos/Requerimientos5.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1006" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1006 -a Requerimientos/Requerimientos6.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1007" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1007 -a Requerimientos/Requerimientos7.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1008" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1008 -a Requerimientos/Requerimientos8.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1009" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1009 -a Requerimientos/Requerimientos9.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1010" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1010 -a Requerimientos/Requerimientos10.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1011" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1011 -a Requerimientos/Requerimientos11.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1012" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1012 -a Requerimientos/Requerimientos12.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1013" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1013 -a Requerimientos/Requerimientos13.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1014" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1014 -a Requerimientos/Requerimientos14.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PS1015" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.pacificos.cliente.ProcesoSolicitante" />
+      <module name="BibliotecaCaribe" />
+      <option name="PROGRAM_PARAMETERS" value="-i 1015 -a Requerimientos/Requerimientos15.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CincoProcesos" type="CompoundRunConfigurationType">
+      <toRun name="PS1001" type="Application" />
+      <toRun name="PS1002" type="Application" />
+      <toRun name="PS1003" type="Application" />
+      <toRun name="PS1004" type="Application" />
+      <toRun name="PS1005" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DiezProcesos" type="CompoundRunConfigurationType">
+      <toRun name="PS1001" type="Application" />
+      <toRun name="PS1002" type="Application" />
+      <toRun name="PS1003" type="Application" />
+      <toRun name="PS1004" type="Application" />
+      <toRun name="PS1005" type="Application" />
+      <toRun name="PS1006" type="Application" />
+      <toRun name="PS1007" type="Application" />
+      <toRun name="PS1008" type="Application" />
+      <toRun name="PS1009" type="Application" />
+      <toRun name="PS1010" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EjecucionChiquitaSistema" type="CompoundRunConfigurationType">
+      <toRun name="ActorDev" type="Application" />
+      <toRun name="ActorPrestamo" type="Application" />
+      <toRun name="ActorRen" type="Application" />
+      <toRun name="Broker" type="Application" />
+      <toRun name="EscritorCH1" type="Application" />
+      <toRun name="EscritorCH2" type="Application" />
+      <toRun name="GestorCarga" type="Application" />
+      <toRun name="GestorCarga2" type="Application" />
+      <toRun name="GestorCargaRespaldo" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EjecucionGrandeSistema" type="CompoundRunConfigurationType">
+      <toRun name="ActorDev" type="Application" />
+      <toRun name="ActorPrestamo" type="Application" />
+      <toRun name="ActorRen" type="Application" />
+      <toRun name="Broker" type="Application" />
+      <toRun name="EscritorGR1" type="Application" />
+      <toRun name="EscritorGR2" type="Application" />
+      <toRun name="GestorCarga" type="Application" />
+      <toRun name="GestorCarga2" type="Application" />
+      <toRun name="GestorCargaRespaldo" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EjecucionPSGrande" type="CompoundRunConfigurationType">
+      <toRun name="PS1001GR" type="Application" />
+      <toRun name="PS1002GR" type="Application" />
+      <toRun name="PS1003GR" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EjecucionSimpleSistema" type="CompoundRunConfigurationType">
+      <toRun name="ActorDev" type="Application" />
+      <toRun name="ActorPrestamo" type="Application" />
+      <toRun name="ActorRen" type="Application" />
+      <toRun name="Broker" type="Application" />
+      <toRun name="Escritor1" type="Application" />
+      <toRun name="Escritor2" type="Application" />
+      <toRun name="GestorCarga" type="Application" />
+      <toRun name="GestorCarga2" type="Application" />
+      <toRun name="GestorCargaRespaldo" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QuinceProcesos" type="CompoundRunConfigurationType">
+      <toRun name="PS1001" type="Application" />
+      <toRun name="PS1002" type="Application" />
+      <toRun name="PS1003" type="Application" />
+      <toRun name="PS1004" type="Application" />
+      <toRun name="PS1005" type="Application" />
+      <toRun name="PS1006" type="Application" />
+      <toRun name="PS1007" type="Application" />
+      <toRun name="PS1008" type="Application" />
+      <toRun name="PS1009" type="Application" />
+      <toRun name="PS1010" type="Application" />
+      <toRun name="PS1011" type="Application" />
+      <toRun name="PS1012" type="Application" />
+      <toRun name="PS1013" type="Application" />
+      <toRun name="PS1014" type="Application" />
+      <toRun name="PS1015" type="Application" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.EscritorCH1" />
+      <item itemvalue="Application.EscritorCH2" />
+      <item itemvalue="Application.EscritorGR1" />
+      <item itemvalue="Application.EscritorGR2" />
+      <item itemvalue="Application.PS1001GR" />
+      <item itemvalue="Application.PS1003GR" />
+      <item itemvalue="Application.PS1002GR" />
+      <item itemvalue="Application.PS1001CH" />
+      <item itemvalue="Application.CalcTiemposRespuesta" />
+      <item itemvalue="Application.ActorDev" />
+      <item itemvalue="Application.ActorRen" />
+      <item itemvalue="Application.ActorPrestamo" />
+      <item itemvalue="Application.PS1001" />
+      <item itemvalue="Application.PS1002" />
+      <item itemvalue="Application.PS1003" />
+      <item itemvalue="Application.PS1004" />
+      <item itemvalue="Application.PS1005" />
+      <item itemvalue="Application.PS1006" />
+      <item itemvalue="Application.PS1007" />
+      <item itemvalue="Application.PS1008" />
+      <item itemvalue="Application.PS1009" />
+      <item itemvalue="Application.PS1010" />
+      <item itemvalue="Application.PS1011" />
+      <item itemvalue="Application.PS1012" />
+      <item itemvalue="Application.PS1013" />
+      <item itemvalue="Application.PS1014" />
+      <item itemvalue="Application.PS1015" />
+      <item itemvalue="Application.Escritor1" />
+      <item itemvalue="Application.Escritor2" />
+      <item itemvalue="Application.GestorCarga" />
+      <item itemvalue="Application.GestorCarga2" />
+      <item itemvalue="Application.GestorCargaRespaldo" />
+      <item itemvalue="Application.Broker" />
+      <item itemvalue="Compound.EjecucionGrandeSistema" />
+      <item itemvalue="Compound.EjecucionPSGrande" />
+      <item itemvalue="Compound.EjecucionChiquitaSistema" />
+      <item itemvalue="Compound.EjecucionSimpleSistema" />
+      <item itemvalue="Compound.CincoProcesos" />
+      <item itemvalue="Compound.DiezProcesos" />
+      <item itemvalue="Compound.QuinceProcesos" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Broker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5dc1cb5-7867-41e8-80c0-566a5c59494b" name="Changes" comment="" />
+      <created>1680493926606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680493926606</updated>
+      <workItem from="1680493927999" duration="3398000" />
+      <workItem from="1680577902456" duration="1681000" />
+      <workItem from="1680666352349" duration="34997000" />
+      <workItem from="1680879554297" duration="7009000" />
+      <workItem from="1680930000243" duration="28371000" />
+      <workItem from="1681152528756" duration="81000" />
+      <workItem from="1681274975890" duration="507000" />
+      <workItem from="1681346739220" duration="2685000" />
+      <workItem from="1681357859875" duration="960000" />
+      <workItem from="1684338615303" duration="30159000" />
+      <workItem from="1685153003406" duration="6698000" />
+      <workItem from="1685312288381" duration="11877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

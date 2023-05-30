@@ -1,0 +1,20 @@
+001;Avestruces feroces;Gabriel Garcia Marquez;4
+002;Bailando con las rosas;Mario Vargas Llosa;5
+003;Rayuela;Julio Cortazar;7
+004;Dias helados;Isabel Allende;8
+005;Calaveras;Gabriel Garcia Marquez;12
+006;Primaveras livianas;Gabriel Garcia Marquez;0
+007;La inmensa calma;Mario Benedetti;6
+008;Opio y espuma;Gabriel Garcia Marquez;4
+009;El iluminado;Carlos Ruiz Zafon;3
+010;El laberinto de la soledad;Octavio Paz;2
+011;Los treinta pasos hasta el alpe;Gabriel Garcia Marquez;11
+012;Columnas invisibles;Alejo Carpentier;0
+013;El Aleph;Jorge Luis Borges;9
+014;Doce cuentos peregrinos;Gabriel Garcia Marquez;7
+015;Marcos sin pintar;Mario Vargas Llosa;13
+016;El general en su laberinto;Gabriel Garcia Marquez;10
+017;Bosques y tinieblas;Ernesto Sabato;5
+018;Trofeos de sangre;Carlos Fuentes;8
+019;La vida instrucciones de uso;Georges Perec;4
+020;El amor en los tiempos del Facebook;Dante Gebel;6

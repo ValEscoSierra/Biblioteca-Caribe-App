@@ -1,0 +1,10 @@
+001;Avestruces feroces;Gabriel Garcia Marquez;4
+002;Bailando con las rosas;Mario Vargas Llosa;7
+003;Rayuela;Julio Cortazar;7
+004;Dias helados;Isabel Allende;8
+005;Calaveras;Gabriel Garcia Marquez;12
+006;Primaveras livianas;Gabriel Garcia Marquez;0
+007;La inmensa calma;Mario Benedetti;6
+008;Opio y espuma;Gabriel Garcia Marquez;4
+009;El iluminado;Carlos Ruiz Zafon;3
+010;El laberinto de la soledad;Octavio Paz;0

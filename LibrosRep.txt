@@ -1,0 +1,300 @@
+001;Avestruces feroces;Gabriel Garcia Marquez;4
+002;Bailando con las rosas;Mario Vargas Llosa;5
+003;Rayuela;Julio Cortazar;7
+004;Dias helados;Isabel Allende;8
+005;Calaveras;Gabriel Garcia Marquez;12
+006;Primaveras livianas;Gabriel Garcia Marquez;0
+007;La inmensa calma;Mario Benedetti;6
+008;Opio y espuma;Gabriel Garcia Marquez;4
+009;El iluminado;Carlos Ruiz Zafon;3
+010;El laberinto de la soledad;Octavio Paz;2
+011;Los treinta pasos hasta el alpe;Gabriel Garcia Marquez;11
+012;Columnas invisibles;Alejo Carpentier;0
+013;El Aleph;Jorge Luis Borges;9
+014;Doce cuentos peregrinos;Gabriel Garcia Marquez;7
+015;Marcos sin pintar;Mario Vargas Llosa;13
+016;El general en su laberinto;Gabriel Garcia Marquez;10
+017;Bosques y tinieblas;Ernesto Sabato;5
+018;Trofeos de sangre;Carlos Fuentes;8
+019;La vida instrucciones de uso;Georges Perec;4
+020;El amor en los tiempos del Facebook;Dante Gebel;6
+021;El vendedor mas grande del mundo;Og Mandino;9
+022;Primavera de rebeldes;Antoine de Saint-Exupery;12
+023;Planicies infinitas;Mario Vargas Llosa;8
+024;El lobo estepario;Hermann Hesse;7
+025;El hombre duplicado;Jose Saramago;6
+026;Baterias de espalda;Anthony Burgess;5
+027;Aventuras del Himalaya;F. Scott Fitzgerald;11
+028;Delfin;Milan Kundera;9
+029;El arte de la guerra;Sun Tzu;14
+030;La trilogia de Nueva York;Paul Auster;7
+031;La guitarra del pantano;John Katzenbach;8
+032;Ajedrez con los dioses;Tom Wolfe;6
+033;1984;George Orwell;10
+034;La importancia de llamarse Ernesto;Oscar Wilde;7
+035;El gran diseno;Stephen Hawking y Leonard Mlodinow;9
+036;El lago;Jose Saramago;8
+037;Hierros incandescentes;Carlos Fuentes;5
+038;Grito del alma;Eduardo Galeano;1
+039;Espejos con abismos;Milan Kundera;7
+040;La colmena;Camilo Jose Cela;8
+041;El extranjero;Albert Camus;6
+042;Crimen y castigo;Fiodor Dostoyevski;10
+043;Castillos borrosos;Patrick Suskind;12
+044;El castillo;Franz Kafka;9
+045;La colonia de Altair;Roberto Bolano;8
+046;El cuento de la criada;Margaret Atwood;11
+047;La caida de los reinos;Muriel Barbery;7
+048;Por quien doblan las campanas;Ildefonso Falcones;6
+049;El sindrome de Mozart;Gonzalo Moure;9
+050;La sombra del viento;Carlos Ruiz Zafon;11
+051;El principito en calzones;Pablo Ramos;6
+052;Crononautas;Mario Vargas Llosa;8
+053;El codigo Da Vinci;Dan Brown;10
+054;Llamas ardientes;Mario Benedetti;7
+055;El oceano que llama;Umberto Eco;9
+056;La dama y el tigre;Isabel Allende;10
+057;El instituto;Mario Vargas Llosa;8
+058;El poder del ahora;Eckhart Tolle;6
+059;La odisea;Homero;13
+060;Bolsas de recuerdos de los necios;John Kennedy Toole;9
+061;El retrato de Carlota;Norma Huidobro;6
+062;En busca del retrato;Tom Wolfe;8
+063;El simbolo perdido;Dan Brown;7
+064;La broma;Milan Kundera;5
+065;Carla;Javier Sierra;8
+066;Aprendiz oscuro;Robert Louis Stevenson;11
+067;El cuento numero trece;Diane Setterfield;6
+068;La lluvia amarilla;Julio Llamazares;7
+069;Lo que se espera de un conejo;Viktor Frankl;10
+070;Boticario;Isabel Allende;9
+071;Artistas entre las sombras;Pio Baroja;0
+072;La muerte de Ivan Ilich;Leon Tolstoi;6
+073;El conde de Montecristo;Alexandre Dumas;13
+074;La fiesta del chivo;Mario Vargas Llosa;7
+075;Lo que el tiempo no cura;Gabriel Garcia Marquez;9
+076;Vistas del ayer;Federico Garcia Lorca;8
+077;El secreto;Rhonda Byrne;10
+078;La ladrona de libros;Markus Zusak;8
+079;El jardin olvidado;Kate Morton;6
+080;Vida y compromiso;Thomas Mann;7
+081;El evangelio segun Jesucristo;Jose Saramago;9
+082;La inmortalidad;Milan Kundera;8
+083;El misterio de la cripta embrujada;Eduardo Mendoza;4
+084;La cancion de Aquiles;Madeline Miller;6
+085;El aleph y otros cuentos;Jorge Luis Borges;7
+086;La trilogia de la niebla;Carlos;2
+087;El secreto de sus ojos;Eduardo Sacheri;10
+088;Las venas abiertas de America Latina;Eduardo Galeano;8
+089;El ocho;Katherine Neville;7
+090;Las mil y una noches;Anonimo;12
+091;Cantos de coro;Arturo Perez-Reverte;9
+092;Las correcciones;Jonathan Franzen;6
+093;El tunel;Ernesto Sabato;11
+094;Las aventuras de Sherlock Holmes;Arthur Conan Doyle;10
+095;El umbral de la noche;Stephen King;7
+096;Las edades de Lulu;Almudena Grandes;8
+097;Realidades alternas;H.G. Wells;0
+098;Las malas;Camila Sosa Villada;5
+099;El temor de un hombre sabio;Patrick Rothfuss;12
+100;Las uvas de la ira;John Steinbeck;7
+101;El nino con el pijama de rayas;John Boyne;11
+102;Las chicas;Emma Cline;8
+103;Metempsicosis;Alejo Carpentier;7
+104;Las aventuras de Huckleberry Finn;Mark Twain;10
+105;El vendedor de tiempo;Fernando Trias de Bes;6
+106;Las intermitencias de la muerte;Jose Saramago;9
+107;Aquellas melodias;Patrick Süskind;11
+108;Las cuatro estaciones;Stephen King;8
+109;El medico;Noah Gordon;10
+110;Las bicicletas son para el verano;Fernando Fernan Gomez;7
+111;El zahir;Paulo Coelho;0
+112;Las dos muertes de Socrates;Maurice Druon;6
+113;El viaje del elefante;Jose Saramago;8
+114;Las ensenanzas de Don Juan;Carlos Castaneda;7
+115;El ruido y la furia;William Faulkner;10
+116;Las aventuras de Tom Sawyer;Mark Twain;6
+117;El club de la pelea;Chuck Palahniuk;9
+118;Las mil caras de Anonymous;Gabriella Coleman;8
+119;El gran Gatsby;F. Scott Fitzgerald;11
+120;Las elegidas;Jorge Volpi;7
+121;El psicoanalista;John Katzenbach;8
+122;Las raices del cielo;Romain Gary;6
+123;El color de la magia;Terry Pratchett;10
+124;Las mujeres que aman demasiado;Robin Norwood;7
+125;El amor en tiempos de Twitter;Nando Lopez;6
+126;El hijo del carpintero;Mario Vargas Llosa;9
+127;Bichos raros;Isabel Allende;8
+128;Nostalgia de lo oculto;Gabriel Garcia Marquez;7
+129;Camas de espinas;Mario Benedetti;9
+130;Un mundo solo;Gabriel Garcia Marquez;11
+131;Engranajes incompatibles;Gabriel Garcia Marquez;10
+132;Cronica de una muerte anunciada;Gabriel Garcia Marquez;7
+133;La noche de los tiempos;Antonio Munoz Molina;9
+134;El sueno del celta;Mario Vargas Llosa;11
+135;La familia de Pascual Duarte;Camilo Jose Cela;8
+136;Nada;Carmen Laforet;10
+137;La Regenta;Leopoldo Alas Clarin;7
+138;Los pasos perdidos;Alejo Carpentier;9
+139;La ciudad de las bestias;Isabel Allende;8
+140;El otono del patriarca;Gabriel Garcia Marquez;11
+141;La invencion de Morel;Adolfo Bioy Casares;10
+142;Un loco anda suelto;Mario Vargas Llosa;7
+143;Los siete locos;Roberto Arlt;9
+144;En el mas alla;Romulo Gallegos;11
+145;Fresa dulce;Carlos Fuentes;8
+146;La gaviota;Anton Chejov;10
+147;El cuaderno dorado;Doris Lessing;7
+148;El hombre que amaba a los perros;Leonardo Padura;9
+149;Los detectives salvajes;Roberto Bolano;8
+150;Los siete maleficos;Carlos Ruiz Zafon;11
+151;La casa de las bellas durmientes;Yasunari Kawabata;10
+152;El jardin de los cerezos;Anton Chejov;7
+153;Baile con los demonios;Lev Tolstoi;9
+154;La caverna;Jose Saramago;11
+155;La insoportable levedad del ser;Milan Kundera;8
+156;La nausea;Jean-Paul Sartre;10
+157;Televisor sin mancha;Juan Rulfo;7
+158;El libro de los abrazos;Eduardo Galeano;9
+159;El tango de la guardia vieja;Arturo Perez-Reverte;7
+160;La verdad sobre el caso Savolta;Eduardo Mendoza;11
+161;El amor en los tiempos del futbol;Eduardo Sacheri;10
+162;Los pasos del hombre;Alejo Carpentier;7
+163;La casa de Bernarda Alba;Federico Garcia Lorca;9
+164;El baron rampante;Italo Calvino;11
+165;El beso de la mujer arana;Manuel Puig;8
+166;Historia universal de la infamia;Jorge Luis Borges;10
+167;La tia Julia y el escribidor;Mario Vargas Llosa;7
+168;El perfume;Patrick Süskind;9
+169;La elegancia del erizo;Muriel Barbery;8
+170;Memoria de mis putas tristes;Gabriel Garcia Marquez;11
+171;Las batallas en el desierto;Jose Emilio Pacheco;10
+172;Melaconlia y tristeza de los necios;John Kennedy Toole;7
+173;El reino de este mundo;Alejo Carpentier;9
+174;La reina del sur;Arturo Perez-Reverte;11
+175;La pasion turca;Antonio Gala;8
+176;El arte de la resurreccion;Hernan Rivera Letelier;9
+177;Los rios profundos;Jose Maria Arguedas;7
+178;El alquimista;Paulo Coelho;9
+179;La ciudad de los prodigios;Eduardo Mendoza;8
+180;El hombre invisible;H.G. Wells;11
+181;La casa verde;Mario Vargas Llosa;7
+182;Montanas de la locura;Mario Vargas Llosa;8
+183;El coronel no tiene quien le escriba;Gabriel Garcia Marquez;10
+184;Dona Barbara;Romulo Gallegos;11
+185;Cien anos de soledad;Gabriel Garcia Marquez;9
+186;El aleph;Jorge Luis Borges;7
+187;La tregua;Mario Benedetti;10
+188;Arena y duna;Ernesto Sabato;8
+189;La metamorfosis;Franz Kafka;11
+190;El llano en llamas;Juan Rulfo;10
+191;Pedro Paramo;Juan Rulfo;7
+192;La region mas transparente;Carlos Fuentes;8
+193;La muerte de Artemio Cruz;Carlos Fuentes;10
+194;El tunel de los pajaros muertos;Marcelo Figueras;11
+195;Camino de Cristo;Alejo Carpentier;9
+196;La reencarnacion;Gabriel Garcia Marquez;7
+197;Lo que un espejo no refleja;Isabel Allende;8
+198;El amor en los tiempos del colera;Gabriel Garcia Marquez;10
+199;Corazas entre espadas;Mario Vargas Llosa;12
+200;El visitante;Carlos Ruiz Zafon;7
+201;La casa de los espiritus;Isabel Allende;0
+202;La ciudad y los perros;Mario Vargas Llosa;8
+203;El arbol de la ciencia;Pio Baroja;7
+204;Mi padre;Muriel Barbery;9
+205;La verdad en cascaron;Mario Vargas Llosa;11
+206;El castillo ambulante;Diana Wynne Jones;8
+207;La Guerra de los Mundos;H.G. Wells;10
+208;Limites desdibujados;Milan Kundera;9
+209;El jardin secreto;Frances Hodgson Burnett;7
+210;La isla del tesoro;Robert Louis Stevenson;12
+211;El exodo descubierto;Markus Zusak;9
+212;Catastrofe solitaria;Hermann Hesse;8
+213;La unica perilla;Antonio Munoz Molina;6
+214;La llamada de Cthulhu;H.P. Lovecraft;11
+215;El nombre de la rosa;Umberto Eco;10
+216;La montana magica;Thomas Mann;9
+217;Los dias que no vivi;Antoine de Saint-Exupery;12
+218;La musica del silencio;Patrick Rothfuss;8
+219;Kraken;Jean-Paul Sartre;7
+220;El libro de los cinco anillos;Miyamoto Musashi;10
+221;La perla;John Steinbeck;9
+222;La naranja mecanica;Anthony Burgess;11
+223;El lobo de mar;Jack London;8
+224;Cuero de dinosaurio;Albert Sanchez Pinol;7
+225;la iliada;Homero;12
+226;El guardian entre el centeno;J.D. Salinger;9
+227;La pequenha Dorrit;Charles Dickens;8
+228;La reina en el palacio de las corrientes de aire;Stieg Larsson;10
+229;Angustia a flor de piel;Jose Saramago;9
+230;Ventanas rotas;Carlos Ruiz Zafon;11
+231;La senda del perdedor;Charles Bukowski;7
+232;Juan Salvador;Mario Benedetti;9
+233;El gran disenho;Stephen Hawking;6
+234;La tejedora de la muerte;Victoria Alvarez;8
+235;La trilogia de la fundacion;Isaac Asimov;11
+236;La tierra baldia;T.S. Eliot;9
+237;El dia del delfin;Robert Merle;8
+238;La ultima pregunta;Isaac Asimov;7
+239;It;Stephen King;2
+240;El mundo y sus demonios;Carl Sagan;9
+241;La leyenda de Sleepy Hollow;Washington Irving;9
+242;El resplandor;Eduardo Mendoza;8
+243;Destino predecible;Federico Garcia Lorca;7
+244;El laberinto de la rosa;Titania Hardie;11
+245;Medidas incompletas;Mario Vargas Llosa;7
+246;El espejo de las almas simples;Marguerite Porete;8
+247;La tabla de Flandes;Arturo Perez-Reverte;7
+248;El angel perdido;Javier Sierra;10
+249;Alas rotas de los necios;John Kennedy Toole;9
+250;El ingenioso hidalgo Don Quijote de la Mancha;Miguel de Cervantes;12
+251;La casa de papel;Carlos Maria Dominguez;8
+252;El hombre en busca de sentido;Viktor Frankl;7
+253;La historia interminable;Michael Ende;11
+254;El bazar del ruido;Dan Brown;3
+255;Mordisco de pez;Muriel Barbery;9
+256;El diario de Ana Frank;Ana Frank;12
+257;Madera de luchador;Isabel Allende;9
+258;El juego de Ender;Orson Scott Card;8
+259;Cuando el acido no hiere;Julio Llamazares;7
+260;Manantiales de vida;Patrick Süskind;10
+261;La catedral del mar;Ildefonso Falcones;9
+262;El retrato de Dorian Gray;Oscar Wilde;8
+263;La hoguera de las vanidades;Tom Wolfe;7
+264;El lenguaje de las flores;Vanessa Diffenbaugh;11
+265;La maldicion del titan;Rick Riordan;9
+266;Una vida mas simple;Paulo Coelho;12
+267;La isla de las tormentas;Ken Follett;8
+268;El misterio de la casa Aranda;Pedro Antonio de Alarcon;7
+269;La clave Gaudi;Esteban Martin;10
+270;El cementerio de Praga;Umberto Eco;9
+271;La llamada de la tribu;Mario Vargas Llosa;7
+272;El circulo;Dave Eggers;11
+273;La fabrica de las sombras;Valerio Massimo Manfredi;9
+274;El guardian invisible;Dolores Redondo;8
+275;La historia secreta;Donna Tartt;7
+276;El mapa y el territorio;Michel Houellebecq;10
+277;Lo confuso;Arturo Perez-Reverte;9
+278;El tatuador de Auschwitz;Heather Morris;3
+279;La ciudad de las sombras;Jeanne Kalogridis;8
+280;El nombre del viento;Patrick Rothfuss;7
+281;La conjura de los libros;Michael Ende;11
+282;El guerrero;Kate Morton;9
+283;La luz que no puedes ver;Anthony Doerr;12
+284;Instrumentos de ejecucion;Antoine de Saint-Exupery;12
+285;Corazon de leon;Milan Kundera;7
+286;El corredor del laberinto;James Dashner;7
+287;La historia de Harry;Anthony Burgess;10
+288;El juego del angel;Carlos Ruiz Zafon;9
+289;Palacios de fortuna;Arturo Perez-Reverte;8
+290;El curioso incidente del perro a medianoche;Mark Haddon;7
+291;La leyenda del ladron;Juan Gomez-Jurado;11
+292;El paciente ingles;Michael Ondaatje;9
+293;La cabana del tio Tom;Harriet Beecher Stowe;10
+294;El recorrido aleman;William Faulkner;8
+295;La historia de la humanidad contada por un gato;Kjartan Poskitt;7
+296;El libro de las ilusiones;Paul Auster;11
+297;La llamada de Cthulhu y otros cuentos de terror;H.P. Lovecraft;9
+298;El club de la lucha;Chuck Palahniuk;8
+299;La piel fria;Albert Sanchez Pinol;10
+300;El viejo y el mar;Ernest Hemingway;12
